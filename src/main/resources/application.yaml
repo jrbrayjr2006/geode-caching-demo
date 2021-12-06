@@ -1,0 +1,8 @@
+spring:
+  data:
+    gemfire:
+      cache:
+        log-level: error
+      management:
+        require-https: false
+        use-http: true
